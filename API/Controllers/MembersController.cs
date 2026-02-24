@@ -1,4 +1,3 @@
-using System.Diagnostics.CodeAnalysis;
 using API.Data;
 using API.Entities;
 using Microsoft.AspNetCore.Http;
