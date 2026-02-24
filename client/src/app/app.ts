@@ -9,7 +9,7 @@ import { lastValueFrom } from 'rxjs';
 })
 export class App implements OnInit {
   private http = inject(HttpClient); //this in how you inject Http today instead of using the constructor -> constructor(private http: HttpClient){}
-  protected readonly title = signal('Dating app');
+  protected readonly title = signal('Friends app');
   protected members = signal<any>([]);
 
   async ngOnInit() {
