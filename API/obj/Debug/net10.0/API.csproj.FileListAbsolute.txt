@@ -149,3 +149,6 @@ C:\Users\anjak\GitRepositories\UdemyCourse\API\bin\Debug\net10.0\Microsoft.Ident
 C:\Users\anjak\GitRepositories\UdemyCourse\API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\anjak\GitRepositories\UdemyCourse\API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\anjak\GitRepositories\UdemyCourse\API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anjak\GitRepositories\UdemyCourse\API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anjak\GitRepositories\UdemyCourse\API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anjak\GitRepositories\UdemyCourse\API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
