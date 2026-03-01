@@ -1,11 +1,13 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, inject, OnInit, signal } from '@angular/core';
 import { lastValueFrom } from 'rxjs';
+import { Nav } from "../layout/nav/nav";
 
 @Component({
   selector: 'app-root',
+  imports: [Nav],
   templateUrl: './app.html',
-  styleUrl: './app.css'
+  styleUrl: './app.css',
 })
 export class App implements OnInit {
   private http = inject(HttpClient); //this in how you inject Http today instead of using the constructor -> constructor(private http: HttpClient){}
